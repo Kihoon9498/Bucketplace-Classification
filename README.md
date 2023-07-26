@@ -48,6 +48,7 @@
 - Alexnet, VGGNet(VGG19), GoogLeNet, MobileNet
 
 ## 담당한 부분
+- 리뷰 이미지 크롤링용 코드 구현
 - 데이터 전처리, Augmentation(증강) 진행
 - VGGNet, MobileNet 모델 학습
 - 전체 모델 Ensemble, Inference용 코드 구축
